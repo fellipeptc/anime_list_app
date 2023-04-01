@@ -1,6 +1,7 @@
 # anime_list_app
 
 Dev: Fellipe Prates
+
 e-mail: fellipeptc@hotmail.com
 
 Application developed in Flutter that searches anime description through an api.
